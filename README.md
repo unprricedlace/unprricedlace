@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me _.aditya_agrawal_ (instagram)
+- 📫 How to reach me yeh.aditya (instagram)
 
 <!---
 unprricedlace/unprricedlace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
