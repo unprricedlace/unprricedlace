@@ -23,7 +23,7 @@
   <a href="mailto:agarwaladitya0106@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href= "[https://www.linkedin.com/in/adityaagrawal-054baa187](https://www.linkedin.com/in/aditya-agrawal-054baa187/)" >
+  <a href= "www.linkedin.com/in/aditya--agrawal" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
 </div>
